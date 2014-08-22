@@ -2,10 +2,10 @@ August 22, 2014
 
 
 
-Dear shiny spp user and peer-reviewer
+Dear shiny app user and peer-reviewer
 
 
-Thirst of all thanks for assessing my work!
+First of all thanks for assessing my work!
 
 The app calculates your Body Mass Index (BMI) which is a measure of weight and height.
 
