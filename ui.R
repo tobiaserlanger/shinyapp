@@ -1,6 +1,5 @@
 shinyUI(
         pageWithSidebar(
-        # Application title
         headerPanel("Body Mass Index (BMI) Calculator by Tobias"),
                 
         sidebarPanel(
@@ -11,6 +10,7 @@ shinyUI(
                 numericInput('height', 'Body height in cm', 175, min=50, max=250, step=1),
                 submitButton('Submit')
         ),
+        
         mainPanel(
                 h4('You entered following weight in kg'),
                 verbatimTextOutput("inputValue1"),
